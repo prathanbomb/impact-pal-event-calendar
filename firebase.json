@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "impact-pal",
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": true
+  }
+}
